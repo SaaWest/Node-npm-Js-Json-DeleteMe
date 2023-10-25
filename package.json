@@ -1,0 +1,16 @@
+{
+  "name": "node-npm-js-json-deleteme",
+  "version": "1.0.0",
+  "description": "delete me",
+  "main": "index.js",
+  "scripts": {
+    "test": "Spencer"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "figlet": "^1.7.0"
+  }
+}
